@@ -1,0 +1,15 @@
+{
+  "name": "takehometest",
+  "version": "1.0.0",
+  "description": "A web server that accept 60 requests per minute.",
+  "main": "main.go",
+  "scripts": {
+    "start": "go run main.go",
+    "test": "go test -v"
+  },
+  "keywords": [
+    "Dcard"
+  ],
+  "author": "dsewnr",
+  "license": "ISC"
+}
